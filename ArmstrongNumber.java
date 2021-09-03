@@ -22,6 +22,7 @@ public class ArmstrongNumber extends BaseTestNg {
 			System.out.println("It is armstrong number");   
 		else  
 			System.out.println("It is not armstrong number");   
+		System.out.println("Try again"); 
 	}  
 
 }
